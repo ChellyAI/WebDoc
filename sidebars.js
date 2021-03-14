@@ -33,7 +33,7 @@ module.exports = {
       'CSS/7、垂直水平居中的方法',
       'CSS/8、display、定位',
       'CSS/9、像素和viewport',
-      'CSS/10、margin',
+      'CSS/10、padding、margin',
       'CSS/11、BFC',
       'CSS/12、transform',
       'CSS/13、可以继承的CSS属性盘点',
